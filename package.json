@@ -43,7 +43,7 @@
     "dotenv": "8.2.0",
     "lodash": "4.17.15",
     "nock": "12.0.2",
-    "rxjs": "6.5.4",
+    "rxjs": "6.6.3",
     "semantic-release-cli": "5.2.3",
     "tslib": "1.11.1",
     "zone.js": "0.10.2"
