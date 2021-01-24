@@ -39,7 +39,7 @@
     "@angular/platform-browser-dynamic": "9.0.5",
     "@angular/router": "9.0.5",
     "@types/dotenv": "6.1.1",
-    "core-js": "3.6.4",
+    "core-js": "3.8.3",
     "dotenv": "8.2.0",
     "lodash": "4.17.15",
     "nock": "12.0.2",
