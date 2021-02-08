@@ -57,7 +57,7 @@
     "@types/jasminewd2": "2.0.8",
     "@types/jquery": "3.3.33",
     "@types/json-server": "0.14.2",
-    "@types/node": "12.12.29",
+    "@types/node": "12.19.16",
     "codecov": "3.6.5",
     "codelyzer": "5.2.1",
     "commitizen": "4.0.3",
